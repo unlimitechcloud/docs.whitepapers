@@ -1,0 +1,2 @@
+8074b251e8b56e4324b69a1abf4131d77cdbbd282c735abc5362836b1aa2074a  Capability Distillation Driven Development-v1.0.2-ES-signed.pdf
+372efbe50b9dcc9e814965ce872118f4a9930d133ac6cb377f46c2439734dfe3  Capability Distillation Driven Development-v1.0.2-signed.pdf
