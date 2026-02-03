@@ -10,6 +10,10 @@ This file documents the authors and contributors to the whitepapers in this repo
 
 **Organization:** Unlimitech Cloud LLC
 
+### Bio
+
+Manuel Antonio Lara Pupo is an AI-Driven Solutions Architect with over 20 years of experience building software at scale and 11+ years designing enterprise architecture. He specializes in translating complex business goals into robust, secure solutions—including country-scale platforms. His recent work focuses on production-grade AI enablement: agentic workflows, MCP implementations, and intelligent data pipelines. Manuel is the founder of Unlimitech Cloud LLC, where he combines deep technical expertise with a commitment to sharing knowledge that strengthens the broader engineering community.
+
 ### Verifiable Identity
 
 | Platform | Link |
@@ -22,13 +26,13 @@ This file documents the authors and contributors to the whitepapers in this repo
 
 All whitepapers are digitally signed using a certificate issued to this author. The public certificate is available at:
 
-- `.publish/certificates/Manuel-Antonio-Lara-Pupo-2026-01-30.crt`
+- `.publish/certificates/Manuel-Antonio-Lara-Pupo-PUBLIC-2026-01-30.crt`
 
 ### Published Works
 
 | Whitepaper | First Published | Current Version |
 |------------|-----------------|-----------------|
-| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/) | January 2026 | v1.0.1 |
+| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/) | January 2026 | v1.0.2 |
 
 ---
 
@@ -50,4 +54,4 @@ To verify authorship:
 
 ---
 
-**Last updated:** January 31, 2026
+**Last updated:** February 3, 2026

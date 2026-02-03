@@ -10,6 +10,10 @@ Este archivo documenta los autores y contribuidores de los whitepapers en este r
 
 **Organización:** Unlimitech Cloud LLC
 
+### Bio
+
+Manuel Antonio Lara Pupo es un Arquitecto de Soluciones impulsado por IA con más de 20 años de experiencia construyendo software a escala y más de 11 años diseñando arquitectura empresarial. Se especializa en traducir objetivos de negocio complejos en soluciones robustas y seguras—incluyendo plataformas a escala nacional. Su trabajo reciente se enfoca en habilitación de IA en producción: flujos de trabajo agénticos, implementaciones MCP y pipelines de datos inteligentes. Manuel es el fundador de Unlimitech Cloud LLC, donde combina profunda experiencia técnica con el compromiso de compartir conocimiento que fortalece la comunidad de ingeniería.
+
 ### Identidad Verificable
 
 | Plataforma | Enlace |
@@ -22,13 +26,13 @@ Este archivo documenta los autores y contribuidores de los whitepapers en este r
 
 Todos los whitepapers están firmados digitalmente usando un certificado emitido a este autor. El certificado público está disponible en:
 
-- `.publish/certificates/Manuel-Antonio-Lara-Pupo-2026-01-30.crt`
+- `.publish/certificates/Manuel-Antonio-Lara-Pupo-PUBLIC-2026-01-30.crt`
 
 ### Trabajos Publicados
 
 | Whitepaper | Primera Publicación | Versión Actual |
 |------------|---------------------|----------------|
-| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/README-ES.md) | Enero 2026 | v1.0.1 |
+| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/README-ES.md) | Enero 2026 | v1.0.2 |
 
 ---
 
@@ -50,4 +54,4 @@ Para verificar autoría:
 
 ---
 
-**Última actualización:** 31 de enero de 2026
+**Última actualización:** 3 de febrero de 2026
