@@ -4,12 +4,12 @@ A framework for developing AI-enabled capabilities under uncertainty—designed 
 
 ## Current Version
 
-**v1.0.2** (January 31, 2026 · Updated February 3, 2026)
+**v1.1.0** (January 31, 2026 · Updated February 4, 2026)
 
 | Language | Download |
 |----------|----------|
-| English | [Capability Distillation Driven Development-v1.0.2-signed.pdf](releases/Capability%20Distillation%20Driven%20Development-v1.0.2-signed.pdf) |
-| Español | [Capability Distillation Driven Development-v1.0.2-ES-signed.pdf](releases/Capability%20Distillation%20Driven%20Development-v1.0.2-ES-signed.pdf) |
+| English | [Capability Distillation Driven Development-v1.1.0-signed.pdf](releases/Capability%20Distillation%20Driven%20Development-v1.1.0-signed.pdf) |
+| Español | [Capability Distillation Driven Development-v1.1.0-ES-signed.pdf](releases/Capability%20Distillation%20Driven%20Development-v1.1.0-ES-signed.pdf) |
 
 📄 [Ver en Español](README-ES.md)
 
@@ -70,7 +70,7 @@ Full license: https://creativecommons.org/licenses/by-sa/4.0/
 
 **How to cite:**
 
-Lara Pupo, Manuel Antonio. *Capability Distillation Driven Development (CDDD / C3D): A Whitepaper on Navigating Uncertainty Toward Valuable AI Capabilities.* Version 1.0.2. Unlimitech Cloud LLC, January 31, 2026.
+Lara Pupo, Manuel Antonio. *Capability Distillation Driven Development (CDDD / C3D): A Whitepaper on Navigating Uncertainty Toward Valuable AI Capabilities.* Version 1.1.0. Unlimitech Cloud LLC, January 31, 2026.
 
 ## About the Author
 

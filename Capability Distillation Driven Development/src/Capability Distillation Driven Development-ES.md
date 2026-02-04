@@ -1,10 +1,26 @@
+---
+title: "Capability Distillation Driven Development (CDDD / C3D)"
+subtitle: "Un Whitepaper sobre Navegar la Incertidumbre hacia Capacidades de IA Valiosas"
+author: "Manuel Antonio Lara Pupo"
+organization: "Unlimitech Cloud LLC"
+version: "1.1.0"
+published: "31 de enero de 2026"
+updated: "4 de febrero de 2026"
+scope: "public"
+status: "published"
+---
+
 # Capability Distillation Driven Development (CDDD / C3D)
 
-**Versión:** 1.0.2  
+**Versión:** 1.1.0  
 **Publicado:** 31 de enero de 2026  
-**Actualizado:** 3 de febrero de 2026
+**Actualizado:** 4 de febrero de 2026
 
 ## Un Whitepaper sobre Navegar la Incertidumbre hacia Capacidades de IA Valiosas
+
+## Abstract
+
+El desarrollo de IA conlleva tasas de fracaso significativamente más altas que los proyectos de software tradicionales—más del 80% de los proyectos de IA fracasan, y la mitad de las iniciativas de IA generativa son abandonadas después de la prueba de concepto. Estos fracasos no provienen de limitaciones técnicas sino de enfoques que asumen resultados predecibles en un dominio inherentemente incierto. Capability Distillation Driven Development (CDDD / C3D) propone un framework alternativo que acepta la incertidumbre como condición inicial y permite que solo aquellas capacidades que demuestren suficiente valor sobrevivan y maduren. A través de un proceso estructurado de destilación—Discovery, Proof of Concept, Intent Maturity Checkpoint y Refinement—las intenciones son validadas progresivamente, con la inversión siguiendo a la evidencia en lugar de compromisos anticipados. El framework introduce mecanismos para medir el progreso, gestionar costos y preservar el conocimiento institucional a través de los ciclos de desarrollo. Al tratar la discontinuación como un resultado válido y el producto final como un residuo concentrado de capacidades validadas, CDDD / C3D alinea la práctica de desarrollo con la realidad de la incertidumbre en proyectos de IA.
 
 ---
 
@@ -471,13 +487,13 @@ La oportunidad ante nosotros es significativa. Las organizaciones que adopten es
 ### Fuentes Primarias
 
 1. **RAND Corporation (2024).** *The Root Causes of Failure for Artificial Intelligence Projects and How They Can Succeed: Avoiding the Anti-Patterns of AI.*
-   https://www.rand.org/pubs/research_reports/RRA2680-1.html
+   <https://www.rand.org/pubs/research_reports/RRA2680-1.html>
 
 2. **Gartner (2025).** *Why Half of GenAI Projects Fail.*
-   https://www.gartner.com/en/articles/genai-project-failure
+   <https://www.gartner.com/en/articles/genai-project-failure>
 
 3. **McKinsey & Company (2025).** *The State of AI: Global Survey 2025.*
-   https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+   <https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai>
 
 ### Investigación de Soporte
 
@@ -490,19 +506,19 @@ La oportunidad ante nosotros es significativa. Las organizaciones que adopten es
 ### Análisis de Industria
 
 7. **Infosys (2025).** *AI Adoption vs Impact: Closing the Gap for Real Business Value.*
-   https://blogs.infosys.com/emerging-technology-solutions/iedps/ai-adoption-vs-impact-closing-the-gap-for-real-business-value.html
+   <https://blogs.infosys.com/emerging-technology-solutions/iedps/ai-adoption-vs-impact-closing-the-gap-for-real-business-value.html>
 
 8. **Astrafy (2025).** *Scaling AI from Pilot Purgatory: Why Only 33% Reach Production and How to Beat the Odds.*
-   https://astrafy.io/the-hub/blog/technical/scaling-ai-from-pilot-purgatory-why-only-33-reach-production-and-how-to-beat-the-odds
+   <https://astrafy.io/the-hub/blog/technical/scaling-ai-from-pilot-purgatory-why-only-33-reach-production-and-how-to-beat-the-odds>
 
 9. **Process Excellence Network (2025).** *Data Foundations for Scalable AI.* (Datos de Gartner sobre mala calidad de datos costando $12.9M anualmente).
-   https://www.processexcellencenetwork.com/ai/articles/why-strong-data-foundations-are-the-real-prerequisite-for-scalable-ai
+   <https://www.processexcellencenetwork.com/ai/articles/why-strong-data-foundations-are-the-real-prerequisite-for-scalable-ai>
 
 10. **Netguru (2025).** *Why Most AI POCs Fail — and How Leaders Can Fix It.*
-    https://www.netguru.com/blog/why-most-ai-pocs-fail
+    <https://www.netguru.com/blog/why-most-ai-pocs-fail>
 
 11. **Devoteam (2025).** *Why AI Projects Fail.*
-    https://www.devoteam.com/expert-view/why-ai-projects-fail/
+    <https://www.devoteam.com/expert-view/why-ai-projects-fail/>
 
 ---
 
@@ -570,11 +586,11 @@ Eres libre de compartir y adaptar este material para cualquier propósito, inclu
 - Se dé crédito apropiado al autor original
 - Las adaptaciones se distribuyan bajo la misma licencia
 
-Licencia completa: https://creativecommons.org/licenses/by-sa/4.0/
+Licencia completa: <https://creativecommons.org/licenses/by-sa/4.0/>
 
 **Cómo citar:**
 
-Lara Pupo, Manuel Antonio. *Capability Distillation Driven Development (CDDD / C3D): Un Whitepaper sobre Navegar la Incertidumbre hacia Capacidades de IA Valiosas.* Versión 1.0.2. Unlimitech Cloud LLC, 31 de enero de 2026.
+Lara Pupo, Manuel Antonio. *Capability Distillation Driven Development (CDDD / C3D): Un Whitepaper sobre Navegar la Incertidumbre hacia Capacidades de IA Valiosas.* Versión 1.1.0. Unlimitech Cloud LLC, 31 de enero de 2026.
 
 ## Sobre el Autor
 
@@ -590,4 +606,4 @@ Las herramientas de IA se utilizaron para asistir con investigación, análisis 
 
 ---
 
-**Fuente Original:** [Capability Distillation Driven Development-v1.0.2-ES-signed.pdf](https://github.com/unlimitechcloud/docs.whitepapers/blob/master/Capability%20Distillation%20Driven%20Development/releases/Capability%20Distillation%20Driven%20Development-v1.0.2-ES-signed.pdf)
+**Fuente Original:** [Capability Distillation Driven Development-v1.1.0-ES-signed.pdf](https://github.com/unlimitechcloud/docs.whitepapers/blob/master/Capability%20Distillation%20Driven%20Development/releases/Capability%20Distillation%20Driven%20Development-v1.1.0-ES-signed.pdf)

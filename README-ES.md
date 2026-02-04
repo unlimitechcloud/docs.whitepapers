@@ -14,7 +14,7 @@ Como empresa, creemos que compartir conocimiento abiertamente fortalece el ecosi
 
 | Whitepaper | Descripción | Versión Actual |
 |------------|-------------|----------------|
-| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/README-ES.md) | Un framework para desarrollar capacidades habilitadas por IA bajo incertidumbre | v1.0.2 |
+| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/README-ES.md) | Un framework para desarrollar capacidades habilitadas por IA bajo incertidumbre | v1.1.0 |
 
 ## Retroalimentación y Contribuciones
 

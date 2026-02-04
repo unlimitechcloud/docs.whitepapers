@@ -1,0 +1,28 @@
+% Styled blockquotes with left border, background, and italic text
+\usepackage{mdframed}
+\usepackage{xcolor}
+
+% Define blockquote style
+\definecolor{quoteborder}{RGB}{100,100,100}
+\definecolor{quotebg}{RGB}{248,248,248}
+
+\renewenvironment{quote}{%
+  \begin{mdframed}[
+    linewidth=3pt,
+    linecolor=quoteborder,
+    topline=false,
+    bottomline=false,
+    rightline=false,
+    leftline=true,
+    backgroundcolor=quotebg,
+    innerleftmargin=15pt,
+    innerrightmargin=15pt,
+    innertopmargin=10pt,
+    innerbottommargin=10pt,
+    skipabove=12pt,
+    skipbelow=12pt
+  ]
+  \itshape
+}{%
+  \end{mdframed}
+}

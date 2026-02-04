@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.0] - 2026-02-04
+
+Added Abstract section to both English and Spanish versions, providing a concise summary of the whitepaper's problem, approach, and contribution.
+
+**Downloads:**
+- [English PDF](releases/Capability%20Distillation%20Driven%20Development-v1.1.0-signed.pdf)
+- [Spanish PDF](releases/Capability%20Distillation%20Driven%20Development-v1.1.0-ES-signed.pdf)
+
+### Added
+- Abstract section (EN): ~180 words summarizing the framework's response to high AI project failure rates
+- Abstract section (ES): Spanish translation of the Abstract
+
+---
+
 ## [1.0.2] - 2026-02-03
 
 License changed from CC BY 4.0 to CC BY-SA 4.0 (ShareAlike).

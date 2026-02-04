@@ -32,7 +32,7 @@ All whitepapers are digitally signed using a certificate issued to this author. 
 
 | Whitepaper | First Published | Current Version |
 |------------|-----------------|-----------------|
-| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/) | January 2026 | v1.0.2 |
+| [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/) | January 2026 | v1.1.0 |
 
 ---
 
@@ -54,4 +54,4 @@ To verify authorship:
 
 ---
 
-**Last updated:** February 3, 2026
+**Last updated:** February 4, 2026
