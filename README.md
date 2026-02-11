@@ -14,6 +14,7 @@ As a company, we believe that sharing knowledge openly strengthens the broader e
 
 | Whitepaper | Description | Current Version |
 |------------|-------------|-----------------|
+| [A Formal Definition of AI-First](A%20Formal%20Definition%20of%20AI-First/) | Establishing rigorous criteria for the AI-First paradigm in software development | v1.0.0 |
 | [Capability Distillation Driven Development (CDDD / C3D)](Capability%20Distillation%20Driven%20Development/) | A framework for developing AI-enabled capabilities under uncertainty | v1.1.0 |
 
 ## Feedback and Contributions

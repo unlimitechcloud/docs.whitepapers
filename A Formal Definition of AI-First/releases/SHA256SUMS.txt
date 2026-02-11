@@ -1,0 +1,2 @@
+bd0fae91cffa348b3306d42ad9393a9a9ed0cdeec69d109f4fb6c9bcf2dfaf4a  A Formal Definition of AI-First-v1.0.0-ES-signed.pdf
+e35ee8f15364fc79432fc2e51f9292114d82450f769e94db0a3dcacd8be60e72  A Formal Definition of AI-First-v1.0.0-signed.pdf
